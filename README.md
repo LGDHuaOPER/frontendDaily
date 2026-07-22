@@ -28,11 +28,11 @@
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/kujian/cnas/issues/1) in [kujian/cnas](https://github.com/kujian/cnas)
-2. ❗ Opened issue [#1769](https://github.com/kujian/frontendDaily/issues/1769) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
-3. ❗ Opened issue [#2911](https://github.com/kujian/githubTrending/issues/2911) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
-4. ❗ Opened issue [#1767](https://github.com/kujian/frontendDaily/issues/1767) in [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
-5. ❗ Opened issue [#2910](https://github.com/kujian/githubTrending/issues/2910) in [kujian/githubTrending](https://github.com/kujian/githubTrending)
+1. ❗ Opened issue [#309](https://github.com/guopenghui/obsidian-quiet-outline/issues/309) in [guopenghui/obsidian-quiet-outline](https://github.com/guopenghui/obsidian-quiet-outline)
+2. 🗣 Commented on [#113](https://github.com/Ar9av/obsidian-wiki/issues/113#issuecomment-5000443691) in [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki)
+3. 🗣 Commented on [#104](https://github.com/AgriciDaniel/claude-obsidian/issues/104#issuecomment-4975293773) in [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+4. 🗣 Commented on [#32](https://github.com/sustcsugar/obsidian-gantt-calendar/issues/32#issuecomment-4965271264) in [sustcsugar/obsidian-gantt-calendar](https://github.com/sustcsugar/obsidian-gantt-calendar)
+5. 🗣 Commented on [#1](https://github.com/plantuml/plantuml-for-github/issues/1#issuecomment-4953885454) in [plantuml/plantuml-for-github](https://github.com/plantuml/plantuml-for-github)
 <!--END_SECTION:activity-->
 
 
