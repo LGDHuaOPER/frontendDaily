@@ -28,7 +28,7 @@
 ## [前端日报](https://github.com/kujian/frontendDaily/issues)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#309](https://github.com/guopenghui/obsidian-quiet-outline/issues/309) in [guopenghui/obsidian-quiet-outline](https://github.com/guopenghui/obsidian-quiet-outline)
+1. 🎉 Merged PR [#2227](https://github.com/apache/doris-website/pull/2227) in [apache/doris-website](https://github.com/apache/doris-website)
 2. 🗣 Commented on [#113](https://github.com/Ar9av/obsidian-wiki/issues/113#issuecomment-5000443691) in [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki)
 3. 🗣 Commented on [#104](https://github.com/AgriciDaniel/claude-obsidian/issues/104#issuecomment-4975293773) in [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
 4. 🗣 Commented on [#32](https://github.com/sustcsugar/obsidian-gantt-calendar/issues/32#issuecomment-4965271264) in [sustcsugar/obsidian-gantt-calendar](https://github.com/sustcsugar/obsidian-gantt-calendar)
